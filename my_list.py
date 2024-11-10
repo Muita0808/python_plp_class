@@ -17,4 +17,4 @@ my_list.pop()
 my_list.sort()
 last = my_list.index(30)
 
-print('Thiia ia my last', last)
+print('This is my last', last)
